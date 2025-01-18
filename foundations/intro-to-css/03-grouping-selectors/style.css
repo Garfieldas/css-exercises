@@ -1,13 +1,24 @@
-.my-class{
+.my-class,
+.second{
     font-size: 28px;
     font-family: Helvetica, sans-serif, 'Times New Roman';
 }
 
-.my-class.first {
+/* .my-class.first {
     background-color: black;
     color: white;
 }
 
 .my-class.second {
     background-color: yellow;
+} */
+
+.first {
+    background-color: black;
+    color: white;
 }
+
+.second {
+    background-color: yellow;
+}
+
