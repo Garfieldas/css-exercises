@@ -1,0 +1,19 @@
+.my-text{
+    background-color: #ffa7a7;
+    font-size: 18px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#container {
+    color: #1500ff;
+    font-size: 32px;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#another {
+    background-color: #80ff81;
+    font-weight: bold;
+}
